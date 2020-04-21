@@ -5,4 +5,4 @@ INSERT INTO bears (name, age, gender, color, temperament) VALUES ("Sergeant Brow
 INSERT INTO bears (name, age, gender, color, temperament) VALUES ("Melissa", 20, "F", "brown", "Passive" );
 INSERT INTO bears (name, age, gender, color, temperament) VALUES ("Grinch", 52, "M", "brown", "Grumpy" );
 INSERT INTO bears (name, age, gender, color, temperament) VALUES ("Wendy", 18, "F", "brown", "Affectionate" );
-INSERT INTO bears (name, age, gender, color, temperament) VALUES (nil, 18, "M", "brown", nil );
+INSERT INTO bears (name, age, gender, color, temperament) VALUES (null, 18, "M", "brown", null );
